@@ -1,0 +1,19 @@
+# discord-youtube-fix
+
+> Новая версия с поддержкой Discord и Telegram в текущих условиях. Быстрее, стабильнее, надежнее
+
+Один архив discord-youtube-fix: обход DPI на Windows. Распаковали и запустили нужный .bat.
+
+## Страницы
+- Сайт: https://rimarbiterhaul.github.io/discord-youtube-fix/
+- Релиз: https://github.com/RimArbiterHaul/discord-youtube-fix/releases/latest
+- Исходный код: https://github.com/RimArbiterHaul/discord-youtube-fix
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход блокировок без VPN
+- обход DPI Windows
+- zapret скачать
+- Discord и YouTube fix
+
+Windows 10/11, без VPN, бесплатно.
